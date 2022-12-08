@@ -1,4 +1,4 @@
-# Modeling Data Use tools HGrid (Data Wrangling) - STOK OBAT TERAPI COVID
+# Data Wrangling - STOK OBAT TERAPI COVID
 
 ## Query Data Stok Obat Terapi Covid (Stok Awal & Penerimaan - Dikirim)
 
