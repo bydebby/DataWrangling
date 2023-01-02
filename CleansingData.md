@@ -18,5 +18,15 @@
 ## Food Products Registered
 ![image](https://user-images.githubusercontent.com/101076043/206358986-ea324b81-2bd9-4a33-a427-37016feb1d1b.png)
 
+## Drug Companies Registered
+![image](https://user-images.githubusercontent.com/101076043/210195949-c256cf2f-0045-4811-bde8-0e4be7288d72.png)
+
+## Drug Products Registered
+![image](https://user-images.githubusercontent.com/101076043/210195919-dc720dc3-be27-478e-b759-69557d1ec33c.png)
+
+## Traditional Medicine and Health Supplement Products Registered
+![image](https://user-images.githubusercontent.com/101076043/210195982-32924ebf-04a5-4b25-9831-e5f1545ed4af.png)
+
+
 
 
